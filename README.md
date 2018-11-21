@@ -1,2 +1,2 @@
 # pranaytanniru.github.io
-<p>This is my portfolio site</p>
+<p>This site contains my Resume</p>
